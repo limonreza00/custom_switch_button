@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">custom_switch_button</string>
+    <string name="switch_is_off">Switch is OFF</string>
+    <string name="switch_is_on">Switch is ON</string>
+</resources>
